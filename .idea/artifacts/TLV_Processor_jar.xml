@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TLV_Processor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TLV_Processor_jar</output-path>
+    <root id="archive" name="TLV_Processor.jar">
+      <element id="module-output" name="TLV_Processor" />
+    </root>
+  </artifact>
+</component>
